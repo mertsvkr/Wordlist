@@ -13,11 +13,6 @@ class Application(QApplication):
         self.searchResults = list()
 
     def openningOperations(self):
-        """
-        bt = QPushButton()
-        self.gui.currentPage = bt
-        self.gui.rightPart.pageLayout.addWidget(self.gui.currentPage)
-        """
         self.gui.leftPart.navigationButtons["home"].element.click()
 
 
