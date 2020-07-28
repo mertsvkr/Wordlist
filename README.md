@@ -1,5 +1,5 @@
 # Wordlist
-This project is to look up for English words online and creating lists. Also there are tests and games to ease memorizing added words.
+This software looks up for English words online and creates lists. Also there are tests and games to learn the added words.
 
 # Used libraries
 PyQt: To form the graphical user interface<br/>
