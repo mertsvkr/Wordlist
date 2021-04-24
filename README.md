@@ -1,11 +1,11 @@
 # Wordlist
 This software looks up for English words online and creates lists. Also there are tests and games to learn the added words.
 
-# Used libraries
-PyQt: To form the graphical user interface<br/>
-requests: To get the html page of the web site<br/>
-bs4: BeautifulSoup to parse the html source code
-# Some screenshots from program
+# Tech/framework used
+* PyQt: To form the graphical user interface<br/>
+* requests: To get the html page of the web site<br/>
+* bs4: BeautifulSoup to parse the html source code
+# Screenshots
 
 ![Searching](https://i.ibb.co/f8W10MD/ss1.png)
 <p align="center">
