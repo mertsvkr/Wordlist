@@ -15,7 +15,7 @@ Screenshot of the search result for "home" word
 
 ![Traversing among word types](https://i.ibb.co/n1BhVW6/ss2.png)
 <p align="center">
-You can change the displayed meanings according to its meaning type 
+You can change the displayed meanings according to its type 
 <p/>
 <br/>
 
